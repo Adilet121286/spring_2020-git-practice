@@ -8,6 +8,6 @@ Jeep
 Volga
 Hyundai
 Nissan
-Lexus
+Lexusclear
 Ferrary
 
